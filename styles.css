@@ -6,7 +6,7 @@ body {
 }
 
 .img-bg {
-  background: url("/img/map-bg.svg");
+  background: url("img/map-bg.svg");
   background-repeat: no-repeat;
   background-position: 10rem 22rem;
 }
